@@ -1,1 +1,1 @@
-# zer0risk 000000
+# zer0risk
